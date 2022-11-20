@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//github.com/yethuhlaing.github.io/bookstore/static/css/main.2bf4793c.css",
+    "main.js": "//github.com/yethuhlaing.github.io/bookstore/static/js/main.ca9f33a3.js",
+    "index.html": "//github.com/yethuhlaing.github.io/bookstore/index.html",
+    "main.2bf4793c.css.map": "//github.com/yethuhlaing.github.io/bookstore/static/css/main.2bf4793c.css.map",
+    "main.ca9f33a3.js.map": "//github.com/yethuhlaing.github.io/bookstore/static/js/main.ca9f33a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bf4793c.css",
+    "static/js/main.ca9f33a3.js"
+  ]
+}
